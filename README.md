@@ -76,4 +76,4 @@ The dashboard includes:
 Increase the frequency of Flaire Bun product promotion content while maintaining educational content to continue building awareness and supporting product sales.
 
 # Dashboard Preview
-![Dashboard] (IMG_0170.jpeg)
+![Dashboard preview] (IMG_0170.jpeg)
