@@ -1,6 +1,9 @@
 # Instagram-content-performance-analysis
 Interactive Excel dashboard analyzing Instagram content performance to identify high-performing content themes and support data-driven content strategy for a beauty brand.
 
+## Dashboard Preview
+![Dashboard preview](IMG_0170.jpeg)
+
 # FlaireFix Instagram Content Performance Analysis (Excel Dashboard)
 
 ## Overview
@@ -74,6 +77,3 @@ The dashboard includes:
 ## Business Recommendation
 
 Increase the frequency of Flaire Bun product promotion content while maintaining educational content to continue building awareness and supporting product sales.
-
-# Dashboard Preview
-![Dashboard preview](IMG_0170.jpeg)
