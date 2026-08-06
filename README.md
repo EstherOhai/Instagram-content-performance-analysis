@@ -4,7 +4,6 @@ Interactive Excel dashboard analyzing Instagram content performance to identify 
 ## Dashboard Preview
 ![Dashboard preview](IMG_0170.jpeg)
 
-# FlaireFix Instagram Content Performance Analysis (Excel Dashboard)
 
 ## Overview
 
